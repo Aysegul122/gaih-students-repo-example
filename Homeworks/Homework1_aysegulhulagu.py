@@ -3,7 +3,6 @@
 
 # In[114]:
 
-
 #--------QUESTION 1-------------
 
 #creating list 
